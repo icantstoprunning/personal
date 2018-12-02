@@ -1,13 +1,10 @@
 # personal
 Repository for personal website
 
-- a
-- b
-
  ---
  
  ```
-    1  git
+     1  git
     2  ls
     3  pwd
     4  cd ~
@@ -26,4 +23,17 @@ Repository for personal website
    17  ls Downloads/
    18  ls Downloads/all_jpegs/
    19  history
+   20  cd Documents/GitHub/personal/
+   21  pwd
+   22  git status
+   23  git status
+   24  git diff
+   25  git add .
+   26  git status
+   27  git commit -m "first git mfffffaaaacxaaa"
+   28  git status
+   29  clear
+   30  git push
+   31  git status
+   32  history
 ```
